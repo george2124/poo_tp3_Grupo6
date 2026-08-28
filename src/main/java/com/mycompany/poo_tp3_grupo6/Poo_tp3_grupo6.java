@@ -13,5 +13,7 @@ public class Poo_tp3_grupo6 {
     public static void main(String[] args) {
         System.out.println("saludando el grupo 6");
         System.out.println("saludos");
+        System.out.println("GRUPO 6");
+        System.out.println("POO");
     }
 }
