@@ -11,6 +11,6 @@ package com.mycompany.poo_tp3_grupo6;
 public class Poo_tp3_grupo6 {
 
     public static void main(String[] args) {
-        System.out.println("Hello World!");
+        System.out.println("saludando el grupo 6");
     }
 }
